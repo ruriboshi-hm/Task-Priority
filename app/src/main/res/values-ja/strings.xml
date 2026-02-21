@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskPriority</string>
+    <string name="tasks">タスク一覧</string>
+    <string name="task">タスク</string>
+    <string name="taskTitle">タスク名を入力してください</string>
+    <string name="deadline">期限</string>
+    <string name="unspecified">指定なし</string>
+    <string name="specify">日付を指定</string>
+    <string name="finish">タスクを完了</string>
+    <string name="unfinished">タスクを未完了にする</string>
+    <string name="save">保存</string>
+    <string name="high">高い</string>
+    <string name="low">低い</string>
+    <string name="priority">緊急度</string>
+    <string name="importance">重要度</string>
+    <string name="priority_">緊急度:</string>
+    <string name="importance_">重要度:</string>
+    <string name="menuEdit">編集</string>
+    <string name="menuDelete">削除</string>
+    <string name="noTask">まだタスクがありません。\n＋ボタンからタスクを追加しましょう</string>
+    <!--ca-app-pub-1123489925024997/6214634189-->
+    <string name="ads_banner">ca-app-pub-1123489925024997/6214634189</string>
+</resources>

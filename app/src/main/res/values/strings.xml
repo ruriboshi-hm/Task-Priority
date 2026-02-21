@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TaskPriority</string>
+    <string name="tasks">Tasks</string>
+    <string name="task">Task</string>
+    <string name="taskTitle">Task Title</string>
+    <string name="deadline">Deadline</string>
+    <string name="unspecified">Unspecified</string>
+    <string name="specify">Specify a deadline</string>
+    <string name="finish">Finished</string>
+    <string name="unfinished">Unfinished</string>
+    <string name="save">Save</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="priority">Urgency</string>
+    <string name="importance">Importance</string>
+    <string name="priority_">Urgency:</string>
+    <string name="importance_">Importance:</string>
+    <string name="menuEdit">Edit</string>
+    <string name="menuDelete">Delete</string>
+    <!--ca-app-pub-1123489925024997/6214634189-->
+    <string name="noTask">No tasks.\nAdd a task using the + button.</string>
+    <string name="ads_banner">ca-app-pub-1123489925024997/6214634189</string>
+</resources>
