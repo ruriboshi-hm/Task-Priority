@@ -1,5 +1,7 @@
 # TaskPriority
 
+![Image](https://github.com/user-attachments/assets/eebc2fde-771f-4281-ad5f-6a8a61bf80e7)
+
 ### 概要
 緊急度と重要度から優先度がわかるタスク管理アプリ
 
